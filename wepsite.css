@@ -81,6 +81,43 @@ nav ul li a{
 }
   
 /*main section about*/
+main{max-width: 1140px;
+    margin: 0 auto;
 
+}
+.section-titile{
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    color: #181818;
+    
+}
 
+.about{
+    padding: 130px;
+    border-radius: 5px;
+    background: #FFF8F3;
+    margin-top: 100px ;
+}
+
+.section-description{
+
+}
+.about-info-cantainer{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.about-info{
+    text-align: center;
+}
+.info-title{color: #553333;
+         margin-top:-10px ;
+    
+
+}
+.info-discreption{
+font-size: 20px;
+
+}
 /*footer section about*/
